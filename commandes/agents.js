@@ -25,8 +25,8 @@ zokou({
     'nom': "Baraka Bega From Tanzania",
     'numero': "255 762 190 568"
   }, {
-    'nom': "Cod3Uchicha From Zimbabwe",
-    'numero': "263 78 502 8126"
+    'nom': "Wanyoike Kelvin (Marzley) From Kenya",
+    'numero': "254 745 789 590"
   }, {
     'nom': "Joel Ai From Tanzania",
     'numero': "255 714 595 078"
