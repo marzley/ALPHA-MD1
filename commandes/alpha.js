@@ -12,5 +12,5 @@
 //::   :::   :: ::::   ::       ::   :::  ::   :::     :::     ::    :::: ::  
 // :   : :  : :: : :   :         :   : :   :   : :      :      :    :: :  :   
 
-// created and designed by keithkeizzah
+// created and designed by Kelvin Wanyoike
 // version 2.0.0
