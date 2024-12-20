@@ -7,5 +7,5 @@ function _0x2466(){const _0x30273f=['Tech','/gith','setDe','CnuAa','IfuIS','zCtn
 //| | | || |_( )| |    | | | || | | |   | | | || |_) |
 //(_) (_)(____/'(_)    (_) (_)(_) (_)   (_) (_)(____/'
                                                     
-// created and designed by keithkeizzah
+// created and designed by Kelvin
 // version 2.0.0
