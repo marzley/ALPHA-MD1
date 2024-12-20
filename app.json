@@ -1,6 +1,6 @@
 {
   "name":"ALPHA-MD",
-  "description":"Best whatsapp bot developed by keithkeizzah",
+  "description":"Best whatsapp bot developed by Kelvin",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
   "repository":"https://github.com/keithkeizzah/ALPHA-MD1",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
+      "value":"https://telegra.ph/file/962e30a697ae88cb5d102.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡"
+    "value": "Kelvin"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796299159"
+    "value": "254745789590"
   },
     "WARN_COUNT":
   {
